@@ -1,1 +1,1 @@
-# corizo-minor-project
+# corizo-major-project
